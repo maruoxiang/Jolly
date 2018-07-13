@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+时间过的飞快，一转眼你都马上就要上五年级了，长得也快赶上妈妈那么高了。其实，之前也曾经有过写一封信给你的想法，却因为各种原因一直被搁浅，可能是应了妈妈的说法，你有时候也会有的拖延症估计是受了爸爸的遗传。直到现在，你去参加夏令营活动，应老师的要求，才让爸爸有机会实现给你写封信的愿望。
 
-You can use the [editor on GitHub](https://github.com/maruoxiang/Jolly/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+爸爸妈妈就你一个宝贝，所以，在你从小到大的教育方式上，爸爸妈妈是既不敢娇纵溺爱，也不忍刻板严厉。爸爸妈妈也是第一次为人父母，在子女教育方面确实也经验不足，都是凭借着自身几十年的人生经验在指引你的成长。从小到大，只要是你想尝试的事情，爸爸妈妈的态度基本上是尽量配合。也带着你参加了各种学习班，虽然大部分你都中途放弃了，但也有个别你现在还在持续。现在回想起来，爸爸妈妈也还是有点迷茫，不知道应该遵从你的本心，还是应该强化一点让你坚持久一点。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+令到爸爸妈妈最欣慰的，就是在你的学习方面让爸爸妈妈比较省心，不用送你去参加什么补习班，也没有花精力去辅导你作业。到目前为止，你在学习方面基本上能稳定保持相当不错的成绩，这确实让爸爸妈妈感觉良好。在这里，爸爸妈妈也希望你戒骄戒躁，继续保持稳定向上的发挥。现在是信息时代，更是知识大爆炸的时代，知识确实对每个人来说都是强有力的装备。所以，为了将来有更多的选择，努力学习吧！
 
-### Markdown
+学习虽然很重要，但个人素养与品质更重要！爸爸妈妈希望你在成长的道路上，能更加注重自身品质的养成。首先，就是要真诚，真诚的面对你身边的每一个人，真诚的面对你经历的所有的事。因为真实与朴实是天才的宝贵品质，信任的建立，需要真诚的日积月累；信任的崩溃，一句谎言就够了。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+然后，就是时时刻刻都怀有一颗善良并感恩的心，拥有了善良和感恩，以后不管走到哪里，你的生活就会是阳光的、快乐的、充满了爱的。学会善待自己，更要懂得善待他人。坦然接受自己的不完美与失误，对于身边人的无心之失造成的伤害给予更大的宽容。因为人无完人，每个人都有不足，每个人都难免会有失误或犯错。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maruoxiang/Jolly/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+其实，人这一生就是一个不断学习的过程，这个世界没有天生的王者，都是需要一个从无到有、从有到多，从多到优的过程，没有人能够跨越。而这个过程，也正是人在学习中不断积累和选择的过程。人从一张白纸，经过努力，升华成一幅可以被世人传颂的名画，中间需要经历的就是在学习中改进的过程。通过学习来充实自己的头脑，让自己更有智慧的生活下去，去探索那未知领域的神秘，去享受成长带来的快乐和惬意。人生的全部意义其实都在现在和将来，而通过现在的努力学习，正是通向美好未来、实现人生自我实现的必由之路。
+好好学习，天天向上！
